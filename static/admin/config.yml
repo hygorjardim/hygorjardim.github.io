@@ -1,6 +1,6 @@
 backend:
     name: github
-    repo: hygorjardim/hygorjardim.io
+    repo: hygorjardim/hygorjardim.github.io
     branch: master   
     
   publish_mode: editorial_workflow # Allows you to save drafts before publishing them
