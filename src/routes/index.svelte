@@ -66,8 +66,8 @@
 
 <div class="home-container">
   <div class="home-copy">
-    <h1>Welcome to your new Sapper Blog</h1>
-    <p>Check out the docs on <a href="https://www.github.com/Charca/sapper-blog-template" target="_blank">GitHub</a> to get started.</p>
+    <h1>Welcome to hygor.io</h1>
+    <p>Check out the posts on <a href="https://hygorjardim.netlify.app/blog" target="_blank">Blog</a> to get started.</p>
   </div>
 
   <figure>
