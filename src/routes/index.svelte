@@ -72,6 +72,6 @@
 
   <figure>
     <img alt='Person typing on laptop' src='undraw-illustration.png'>
-    <figcaption>Illustration thanks to <a href="https://undraw.co" target="_blank">Undraw</a></figcaption>
+    <figcaption>Illustration thanks to <a href="https://craftwork.design" target="_blank">Craftwork</a></figcaption>
   </figure>
 </div>
