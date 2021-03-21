@@ -71,7 +71,7 @@
   </div>
 
   <figure>
-    <img alt='Person typing on laptop' src='undraw-illustration.svg'>
+    <img alt='Person typing on laptop' src='undraw-illustration.png'>
     <figcaption>Illustration thanks to <a href="https://undraw.co" target="_blank">Undraw</a></figcaption>
   </figure>
 </div>
