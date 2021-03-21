@@ -61,7 +61,8 @@
 </style>
 
 <svelte:head>
-  <title>Sapper Blog Template</title>
+  <title>Hygor Jardim Blog</title>
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 </svelte:head>
 
 <div class="home-container">
