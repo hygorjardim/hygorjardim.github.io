@@ -68,7 +68,7 @@
 <div class="home-container">
   <div class="home-copy">
     <h1>Welcome to hygor.io</h1>
-    <p>Check out the posts on <a href="https://hygorjardim.netlify.app/blog" target="_blank">Blog</a> to get started.</p>
+    <p>Check out the posts on <a href="/blog" >Blog</a> to get started.</p>
   </div>
 
   <figure>
